@@ -2,6 +2,8 @@
 
 A voice-based mock interview platform. Users sign up, generate a tailored interview by talking to a voice agent, take the interview with an AI interviewer, and get structured feedback scored by Gemini.
 
+> Built following the [JS Mastery tutorial](https://github.com/adrianhajdin/ai_mock_interviews), extended with setup documentation: a `.env.example` covering every required variable, and a guide to the Firebase, Firestore index and Vapi workflow configuration the app depends on.
+
 ## Tech stack
 
 - **Next.js 15** (App Router, Server Actions) + **React 19**, TypeScript
